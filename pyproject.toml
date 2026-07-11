@@ -1,0 +1,7 @@
+[project]
+name = "pilot-study"
+version = "0.1.0"
+description = "Pilot study pending final research approval"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
