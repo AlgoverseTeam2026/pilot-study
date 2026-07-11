@@ -10,3 +10,9 @@ If UV is not installed you can install it with
   curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
+## Updating the Dependencies
+
+1. Install any necessary dependancies with `uv add <package-name>`
+2. *Before* commiting, add it to the `uv.lock` file with `uv sync`
+3. Commit the changes
+
