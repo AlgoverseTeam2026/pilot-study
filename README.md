@@ -13,6 +13,6 @@ If UV is not installed you can install it with
 ## Updating the Dependencies
 
 1. Install any necessary dependancies with `uv add <package-name>`
-2. *Before* commiting, add it to the `uv.lock` file with `uv sync`
+2. *Before* commiting, add it to the `uv.lock` file with `uv lock`
 3. Commit the changes
 
